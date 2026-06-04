@@ -1,0 +1,11 @@
+[package]
+name = "ternary-benchmark"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-benchmark"
+description = "Standardized benchmarks for ternary agent systems — reproducible performance numbers"
+keywords = ["ternary", "benchmark", "agent", "simulation"]
+categories = ["algorithms", "science"]
+
+[dev-dependencies]
