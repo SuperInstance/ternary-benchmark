@@ -89,3 +89,11 @@ src/
 ## License
 
 MIT
+
+## See Also
+- **ternary-metrics** — related
+- **ternary-gauge** — related
+- **ternary-experiment** — related
+- **ternary-scoring** — related
+- **ternary-fitness** — related
+
